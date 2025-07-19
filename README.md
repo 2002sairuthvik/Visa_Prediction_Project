@@ -1,6 +1,6 @@
 # Visa_Prediction_Project
 
-
+- Data link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 ## Git commands
 
@@ -27,6 +27,8 @@ conda activate visa
 pip install -r requirements.txt
 ```
 
+
+
 ## Workflow:
 
 1. constants
@@ -34,3 +36,5 @@ pip install -r requirements.txt
 3. components
 4. pipeline
 5. Main file
+
+
